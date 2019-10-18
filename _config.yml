@@ -98,7 +98,10 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-
+# paginate  paginate的6为每页显示6篇文章，port：4001 是jekyll启动端口号
+plugins: [jekyll-paginate]
+paginate: 6
+port: 4001
 
 # Friends
 friends: [
