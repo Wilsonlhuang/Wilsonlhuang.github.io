@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wilsonlhuang@163.com
 description: "关于程序与设计、面试与总结| 黄逸，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Huy黄逸 的个人博客，与你一起发现更大的世界。"
 keyword: "黄逸, Huy黄逸, Huy, @huypro,黄逸的博客, Huy Blog, 博客, 个人网站, 互联网, Spring, 分布式, 后端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -21,7 +21,7 @@ twitter_username:   huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
-
+# paginate的10为每页显示10篇文章，port：4001 是jekyll启动端口号
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
@@ -98,10 +98,7 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# paginate  paginate的6为每页显示6篇文章，port：4001 是jekyll启动端口号
-plugins: [jekyll-paginate]
-paginate: 6
-port: 4001
+
 
 # Friends
 friends: [
