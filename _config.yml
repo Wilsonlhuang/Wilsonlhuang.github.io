@@ -1,7 +1,7 @@
 # Site settings
 title: Huy Blog
 SEOTitle: 黄逸的博客 | Huy Blog
-# header-img: img/home-bg.jpg
+header-img: img/home-bg.jpg
 email: wilsonlhuang@163.com
 description: "关于程序与设计、面试与总结| 黄逸，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Huy黄逸 的个人博客，与你一起发现更大的世界。"
 keyword: "黄逸, Huy黄逸, Huy, @huypro,黄逸的博客, Huy Blog, 博客, 个人网站, 互联网, Spring, 分布式, 后端, 设计"
