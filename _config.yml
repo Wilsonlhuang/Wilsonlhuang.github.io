@@ -12,13 +12,13 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-github_username:    Wilsonlhuang
+# RSS: false
+# weibo_username:     huxpro
+# zhihu_username:     huxpro
+# github_username:    Wilsonlhuang
 # twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+# facebook_username:  huxpro
+# linkedin_username:  firstname-lastname-idxxxx
 
 
 # paginate的10为每页显示10篇文章，port：4001 是jekyll启动端口号
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: huy
 
 # Netease settings
 netease_comment: false
@@ -84,7 +84,7 @@ sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
@@ -102,7 +102,7 @@ page-mathjax: false
 
 # Friends
 # friends: [
-    {
+    # {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
@@ -132,5 +132,5 @@ page-mathjax: false
     # },{
     #    title: "尹峰以为",
     #    href: "http://ingf.github.io/"
-    #}
+    # }
 # ]
